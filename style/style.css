@@ -1,0 +1,36 @@
+.title-main {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: darkblue;
+}
+
+.title-section {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: teal;
+}
+
+.section-title {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: darkgreen;
+}
+
+.text_title {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.6;
+}
+
+.list-item {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #333333;
+    line-height: 1.6;
+}
+.background {
+    background-color: #f5f5f5;
+}
